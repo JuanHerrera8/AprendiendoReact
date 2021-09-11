@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";EAD
 import "./App.css";
-import getGifs from "../services/getGifs";
+import getGifs from "./services/getGifs";
 
 
 function App() {
